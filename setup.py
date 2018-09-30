@@ -9,6 +9,7 @@ setuptools.setup(name='s3_file_handler',
                  packages=setuptools.find_packages(),
                  classifiers=[
                    "Programming Language :: Python :: 3 :: 2.7",
+                   "License :: OSI Approved :: MIT License",
                    "Operating System :: OS Independent",
                  ],
                  )
